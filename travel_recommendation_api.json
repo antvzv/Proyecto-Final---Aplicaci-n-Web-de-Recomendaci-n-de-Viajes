@@ -1,0 +1,65 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Japón",
+      "cities": [
+        {
+          "name": "Tokio, Japón",
+          "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=800&q=80",
+          "description": "Una metrópolis vibrante donde la tecnología de vanguardia se combina con tradiciones milenarias, templos históricos y gastronomía de clase mundial."
+        },
+        {
+          "name": "Kioto, Japón",
+          "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=800&q=80",
+          "description": "Famosa por sus templos budistas clásicos, jardines imperiales, santuarios Shinto y casas de madera tradicionales."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Brasil",
+      "cities": [
+        {
+          "name": "Río de Janeiro, Brasil",
+          "imageUrl": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?auto=format&fit=crop&w=800&q=80",
+          "description": "Conocida por sus famosas playas de Copacabana e Ipanema, la estatua del Cristo Redentor y el impresionante pan de azúcar."
+        },
+        {
+          "name": "Salvador de Bahía, Brasil",
+          "imageUrl": "https://images.unsplash.com/photo-1518639192441-8fce0a366e2e?auto=format&fit=crop&w=800&q=80",
+          "description": "Famosa por su arquitectura colonial portuguesa, cultura afrobrasileña, música vibrante y hermosas costas tropicales."
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Angkor Wat, Camboya",
+      "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+      "description": "El monumento religioso más grande del mundo, famoso por sus impresionantes torres talladas en piedra y su historia antigua."
+    },
+    {
+      "id": 2,
+      "name": "Taj Mahal, India",
+      "imageUrl": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=800&q=80",
+      "description": "Un imponente mausoleo de mármol blanco, considerado una de las Siete Maravillas del Mundo Moderno y símbolo de amor eterno."
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, Polinesia Francesa",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+      "description": "Una isla paradisíaca rodeada de bungalows sobre aguas turquesas cristalinas y arrecifes de coral espectaculares."
+    },
+    {
+      "id": 2,
+      "name": "Playa Tulum, México",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+      "description": "Hermosas playas de arena blanca bordeadas por aguas caribeñas y ruinas mayas históricas situadas sobre acantilados."
+    }
+  ]
+}
+
